@@ -7,7 +7,7 @@ Eu sou a Daisy, mas fique à vontade pra me chamar de Day :wink:
 	<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
 <br>
 
-![Daisy Barbosa github stats](https://github-readme-stats.vercel.app/api?username=Day-Namite&theme=midnight-purple&show_icons=true)
+![Daisy Barbosa github stats](https://github-readme-stats.vercel.app/api?username=Day-Namite&theme=midnight-purple&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Namite&layout=compact&theme=midnight-purple)
 
 
 
