@@ -1,7 +1,6 @@
 ### Olá, mundo! 👋
 
-Eu sou a Daisy, mas fique à vontade pra me chamar de Day :wink:
-
+Eu sou a Daisy, mas fique à vontade pra me chamar de Day :wink
 
 
 ![Daisy Barbosa github stats](https://github-readme-stats.vercel.app/api?username=Day-Namite&theme=midnight-purple&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Namite&layout=compact&theme=midnight-purple)
@@ -18,7 +17,13 @@ Eu sou a Daisy, mas fique à vontade pra me chamar de Day :wink:
 	<summary> <b> Quer saber um pouco mais? </b> <i>(Clique aqui!)</i> </summary>
 <br>
 	
-
+##
+	
+	Entre em contato comigo:
+<div> 
+  <a href = "mailto:daisybarbosa.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daisy-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 	
 
