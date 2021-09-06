@@ -3,9 +3,9 @@
 
 <p align="center">Eu sou a Daisy, mas fique à vontade pra me chamar de Day :wink:</p>
 
-<div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Day-Namite&theme=midnight-purple&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Namite&layout=compact&theme=midnight-purple"/>
+<div >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Day-Namite&theme=midnight-purple&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Namite&layout=compact&theme=midnight-purple"/>
 </div>
 
 
